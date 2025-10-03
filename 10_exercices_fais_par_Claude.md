@@ -879,3 +879,40 @@ Colonne 3 : Type de modification (orthographe/style/clarté/structure)
 ```
 J'ai écrit ce texte en [langue source] puis l'ai traduit en français avec un outil.
 Corrige les maladresses de traduction et améli
+------
+## Conseils pour débuter efficacement
+
+### 🎯 Soyez précis dans vos demandes
+Plus vous donnez de contexte, meilleure sera la réponse. Précisez le ton, le public, l'objectif, et les contraintes de votre demande.
+
+### 🔄 Utilisez la méthode itérative
+Commencez par une première demande, puis affinez avec "peux-tu améliorer...", "ajoute plus de détails sur...", "change le ton pour..."
+
+### 🛠️ Testez plusieurs outils
+- **ChatGPT** excelle en créativité
+- **Bard** en recherche temps réel
+- **Claude** en analyse approfondie
+
+Utilisez le bon outil pour la bonne tâche.
+
+### 📝 Gardez vos meilleurs prompts
+Créez un document avec vos formulations qui marchent bien. Réutilisez et adaptez vos prompts efficaces.
+
+### ✅ Vérifiez toujours les informations
+L'IA peut faire des erreurs factuelles. Vérifiez les données importantes, dates, chiffres, et références avant utilisation.
+
+### 🔒 Respectez la confidentialité
+Ne jamais saisir d'informations personnelles, financières, ou confidentielles dans les versions gratuites des outils IA.
+
+---
+
+## Pour aller plus loin
+
+- Expérimentez avec différentes formulations de prompts
+- Documentez vos résultats et apprentissages
+- Partagez vos meilleures pratiques avec votre équipe
+- Restez informé des nouvelles fonctionnalités des outils IA
+
+---
+
+*Guide pratique créé pour faciliter l'adoption des outils d'IA en contexte professionnel*
