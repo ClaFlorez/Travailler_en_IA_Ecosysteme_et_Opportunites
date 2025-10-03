@@ -913,6 +913,21 @@ Ne jamais saisir d'informations personnelles, financières, ou confidentielles d
 - Partagez vos meilleures pratiques avec votre équipe
 - Restez informé des nouvelles fonctionnalités des outils IA
 
+## 🚧 Limites et plans d’abonnement de Claude
+
+Après seulement **trois requêtes**, Claude m’a indiqué que j’avais atteint la limite gratuite et m’a proposé de passer à un plan payant.  
+Voici les captures d’écran :  
+
+### 📌 Plans disponibles
+![Plans d’abonnement de Claude](/image/Claude-plan-abonnement.JPG)
+
+### 📌 Message après 3 requêtes
+![Claude demande de payer après 3 requêtes](/image/Claude-avec-trois-requetes-demande-paiement.JPG)
+
+---
+- En mode **Free**, l’utilisation est limitée : quelques requêtes par jour.  
+- Au bout de **trois tentatives**, Claude affiche une fenêtre expliquant que pour continuer, il faut souscrire à **Pro (28 $/mois)** ou **Max (à partir de 140 $/mois)**.  
+- Les plans incluent : plus de messages, accès aux modèles avancés, intégration avec Google Workspace, et des outils comme **Claude Code**.  
 ---
 
 *Guide pratique créé pour faciliter l'adoption des outils d'IA en contexte professionnel*
