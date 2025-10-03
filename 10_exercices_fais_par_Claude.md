@@ -1,4 +1,4 @@
-# 10 exercices pratiques pour démarrer avec l'IA
+# 10 exercices pratiques pour démarrer avec l'IA - propose le telecharger en .md ou en PDF
 
 Ce guide présente 10 exercices concrets pour vous familiariser avec les outils d'intelligence artificielle dans votre quotidien professionnel.
 
