@@ -1,4 +1,4 @@
-Absolument ! Voici un document Markdown structuré et prêt à être publié sur votre dépôt GitHub. Il reprend les 10 exercices pratiques et les conseils pour bien démarrer avec l'IA générative.
+Absolument ! Voici un document Markdown structuré et prêt à être publié sur votre dépôt GitHub. Il reprend les 10 exercices pratiques et les conseils pour bien démarrer avec l'IA générative. - pas d'option de telecharger le document .md
 
 ***
 
