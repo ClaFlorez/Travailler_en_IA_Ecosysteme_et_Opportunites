@@ -919,11 +919,12 @@ Après seulement **trois requêtes**, Claude m’a indiqué que j’avais attein
 Voici les captures d’écran :  
 
 ### 📌 Plans disponibles
+```
 ![Plans d’abonnement de Claude](/image/Claude-plan-abonnement.JPG)
 
 ### 📌 Message après 3 requêtes
 ![Claude demande de payer après 3 requêtes](/image/Claude-avec-trois-requetes-demande-paiement.JPG)
-
+```
 ---
 - En mode **Free**, l’utilisation est limitée : quelques requêtes par jour.  
 - Au bout de **trois tentatives**, Claude affiche une fenêtre expliquant que pour continuer, il faut souscrire à **Pro (28 $/mois)** ou **Max (à partir de 140 $/mois)**.  
